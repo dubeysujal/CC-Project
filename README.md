@@ -13,14 +13,6 @@ By leveraging the power of CSS, PHP, and HTML, along with the robust infrastruct
 
 4. **AWS Services**: The repository focuses on using various AWS services to host the dynamic website. It covers the setup and configuration of services like Amazon EC2 (Elastic Compute Cloud), AWS Elastic Beanstalk, and potentially other relevant services such as Amazon RDS (Relational Database Service) or Amazon S3 (Simple Storage Service).
 
-The repository offers detailed instructions and code samples, guiding you through the entire process of hosting a dynamic website on AWS. You'll learn how to:
-
-- Set up an AWS account and create the necessary resources for hosting the website.
-- Deploy and configure an EC2 instance or utilize AWS Elastic Beanstalk to simplify the deployment process.
-- Install a web server (e.g., Apache or Nginx) and configure it to serve the dynamic website files.
-- Employ PHP to handle server-side functionality and interact with databases, if needed.
-- Optimize the website using CSS techniques to ensure an engaging and responsive user experience.
-
 Whether you're a beginner venturing into web development or an experienced developer seeking to host dynamic websites on AWS, this repository provides a valuable resource. Explore, contribute, and adapt the code to meet your specific requirements and expand your knowledge of hosting dynamic websites with CSS, PHP, and HTML on the AWS platform.
 
 Embark on your journey of hosting dynamic websites on AWS, and unlock the potential of CSS, PHP, and HTML in creating dynamic and engaging web experiences. Happy hosting and coding!
